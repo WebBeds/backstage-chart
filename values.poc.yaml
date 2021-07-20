@@ -1,0 +1,13 @@
+appConfig:
+  app:
+    baseUrl: https://backstage-poc.webbeds.com
+    title: Backstage
+  backend:
+    baseUrl: https://backstage-poc.webbeds.com
+    cors:
+      origin: https://backstage-poc.webbeds.com
+  lighthouse:
+    baseUrl: https://backstage-poc.webbeds.com/lighthouse-api
+  techdocs:
+    storageUrl: https://backstage-poc.webbeds.com/api/techdocs/static/docs
+    requestUrl: https://backstage-poc.webbeds.com/api/techdocs
